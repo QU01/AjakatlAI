@@ -1,6 +1,8 @@
 # AjakatlAI
 
-AjakatlAI es un proyecto innovador que busca democratizar el acceso a la información de servicios públicos en las comunidades indígenas de América Latina. Utilizando modelos de lenguaje avanzados, como el modelo Llama 3.2, desarrollamos el model **AjakatlLlama3.2-3B**, cuyo objetivo es facilitar la comprensión y el uso de información clave, especialmente en lenguas indígenas.
+AjakatlAI es un proyecto innovador que busca democratizar el acceso a la información de servicios públicos en las comunidades indígenas de América Latina. Utilizando modelos de lenguaje avanzados, como el modelo Llama 3.2, desarrollamos el model **AjakatlLlama3.2-3B**, cuyo objetivo es facilitar la comprensión y el uso de información clave, especialmente en lenguas indígenas. Puedes probar el modelo en https://huggingface.co/RenZaijay/AjakatlLlama3.2-3B.
+
+Desarrollado para el Hackaton Llama Impact Latinoamerica 2024
 
 ## Tabla de Contenidos
 
